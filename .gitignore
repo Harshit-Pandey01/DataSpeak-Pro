@@ -1,0 +1,30 @@
+
+.env
+
+# --- Python Virtual Environments ---
+venv/
+env/
+ENV/
+.venv/
+
+# --- Python Caching ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Database Files ---
+
+*.db
+*.sqlite3
+
+# --- Streamlit Logs & Configuration ---
+.streamlit/
+! .streamlit/config.toml
+
+# --- IDE Folders ---
+.vscode/
+.idea/
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
