@@ -8,7 +8,7 @@
 
 ## UI and Output Interface
 
-![SQL Genius UI](./images/UI.png)
+![SQL Genius UI](./assets/UI.png)
 
 
 ## Features
