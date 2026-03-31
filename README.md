@@ -6,6 +6,11 @@
 
 ---
 
+## UI and Output Interface
+
+![SQL Genius UI](./images/UI.png)
+
+
 ## Features
 * **Natural Language Processing:** Converts complex English questions into precise SQL queries.
 * **Gemini 2.0 Flash Integration:** Utilizes Google's latest LLM for fast and accurate SQL generation.
