@@ -8,8 +8,9 @@
 
 ## UI and Output Interface
 
-![SQL Genius UI](./assets/UI.png)
-
+<p align="center">
+  <img src="assets/UI.png" width="800"/>
+</p>
 
 ## Features
 * **Natural Language Processing:** Converts complex English questions into precise SQL queries.
