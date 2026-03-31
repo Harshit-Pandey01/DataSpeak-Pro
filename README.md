@@ -1,4 +1,6 @@
-# DataSpeak-Pro AI-Powered Text-to-DB Data 
+# DataSpeak-Pro 
+
+# AI-Powered Text-to-DB Data 
 
 **SQL Genius** is a full-stack Generative AI application that allows users to query a SQL database using natural language. No more writing complex JOINs or SELECT statements manually—simply ask your question in English, and the AI handles the rest.
 
